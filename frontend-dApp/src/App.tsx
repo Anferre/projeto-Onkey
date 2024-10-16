@@ -27,10 +27,10 @@ function App() {
   // const api_url = "http://localhost:4002/api";  
 
   // Your ABAKHUS API-KEY
-  const api_key = '1234567890'
+  const api_key = '9788e4feb4e80f447a76c545eae7c0cf'
 
   // Your contract deployed at Arbitrum Sepolia
-  const contractAddress = '0x69607faB1fc7851737b980B0539C5a183dB3afCe';
+  const contractAddress = '0xe7722879b1EBde58299044636fC7B2C770b3e0b3';
   
   useEffect(() => {
     // Connect with Metamask
@@ -270,7 +270,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Interaja com ERC 1155</h1>
+        <h1>Plataforma de Gerenciamento Imobiliário</h1>
         {account ? (
           <div>
           <p>Conectado: {account}</p>
@@ -291,11 +291,19 @@ function App() {
             value="Get Tokens"
             onClick={getTokensByOwner}
           />
-          
-          <textarea cols={50} rows={10}
-            placeholder="Insira o JSON para mint"
-            value={mintData}
-            onChange={(e) => setMintData(e.target.value)}
+          Nome do Responsável: <input type="text" name="nomeResponsavel" id="nomeResponsavel" />
+          CPF: <input type="text" name="cpf" id="cpf" /><br></br>
+          Endereço do Responsável: <input type="text" name="enderecoResponsavel" id="enderecoResponsavel" />
+          Bairro: <input type="text" name="bairro" id="bairro" /><br></br>
+          Região: <input type="text" name="regiao" id="regiao" />
+          CEP: <input type="text" name="cep" id="cep" /><br></br>
+          Geolocalização: <input type="text" name="geolocalizacao" id="geolocalizacao" /><br></br>
+          <textarea
+          // cols={50}
+          // rows={10}
+          // placeholder="Insira o JSON para mint"
+          // value={mintData}
+          // onChange={(e) => setMintData(e.target.value)}
           />
           <input
             type="button"
@@ -327,3 +335,4 @@ function App() {
 }
 
 export default App;
+
