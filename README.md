@@ -1,158 +1,180 @@
-# hacker-house-arbitrum
-A Hacker House, Arbitrum edition, promoted by the Blockchain Innovation Hub
+Bem-vindo
 
-## Registration
+OnKey é uma plataforma para gerenciamento de associações de moradores que utiliza a tecnologia Blockchain para realizar registros imobiliários de forma segura e eficiente. Ela também visa a desburocratização e a falta de transparência na gestão da comunidade simplificando a vida dos moradores.
 
-https://lu.ma/z1kaje11
+Nossa Missão
 
-## ​Dates and time
+Capacitar comunidades através de uma plataforma segura e confiável, facilitando o registro e a gestão de dados.
 
-​Tuesday September 10th : 6pm - 7pm (GMT-3)
 
-​Tuesday September 17th : 6pm - 7pm (GMT-3)
 
-​Tuesday September 24th : 6pm - 7pm (GMT-3)
 
-​Tuesday October 1st : 6pm - 7pm (GMT-3)
+Com a OnKey, os moradores podem:
+Acessar documentos importantes a qualquer hora e lugar.
+Participar das decisões da comunidade através de votações online.
+Receber notificações sobre eventos e serviços da associação.
 
-​Tuesday October 8th : 6pm - 7pm (GMT-3)
+Como Funciona?
 
-​Tuesday October 15th : 6pm - 7pm (GMT-3)
+Uma tabela hash é uma estrutura de dados que você pode usar para armazenar dados no formato chave-valor com acesso direto aos seus itens em tempo constante.
+As tabelas de hash são ditas  associativas , o que significa que para cada chave, os dados ocorrem no máximo uma vez. As tabelas de hash nos permitem implementar coisas como listas telefônicas ou dicionários; nelas, armazenamos a associação entre um valor (como uma definição de dicionário da palavra "lamp") e sua chave (a própria palavra "lamp").
+Podemos usar tabelas de hash para armazenar, recuperar e excluir dados exclusivamente com base em sua  chave exclusiva .
 
-## Registered participants
 
-| Name | Country of residence | City of residence |University or Company | Project type |
-| --- | --- | --- | --- | --- |
-| Afo | United States | San Diego | Greenpill Dev Guild | Other
-Jose Aldo Teixeira da Silva |  Brasil | Correntes | Prefeitura Municipal das Correntes-PE | Other
-DAVI GOMES ALVES | Brasil | Rio de Janeiro | UFRJ | Privacy-preserving dApp
-Andre | Brasil | Rio de Janeiro | Univercidade Federal Fluminense | Other
-AnaCunha | Brasil | RJ | Museu.xyz | Real World Assets (RWA)
-Arthur | Brazil | Niterói  | Universidade Federal Fluminense | Other
-Athus Oliveira | Brazil | Rio de Janeiro | ReRe | Other
-Benjamin da Gama Bauer | Brasil | Jacobina | ICP Hub Brasil | DeFi
-Bruno Ricardo Corrêa de Carvalho | Brazil | Rio de Janeiro | Universidade Federal do Rio de Janeiro | Privacy-preserving dApp
-Adriano Busson | Brasil | Niterói | Universidade Federal Flumminense - UFF | Other
-Carlos Israel Jimenez Jimenez | Ecuador | Guayaquil | ESPOL | Privacy-preserving dApp
-Coi | Brasil | Rio Claro | Greenpill Devguild | Other
-João Estellita | Brasil | Nova Friburgo | ReRe | Other
-Cristiane Rodrigues da Silva | Brasil | São Paulo | NTT | Healthcare
-André Carneiro | Brazil | São Paulo | OpenSenses | DeFi
-Deroila | Brasil | São Paulo  | Greenpill Brasil  | Other
-Bernardo Dourado | Brazil | RIO DE JANEIRO | UFRJ - Universidade Federal do Rio de Janeiro | Other
-Fernanda Oliveira  | Brazil | Rio de Janeiro | UFRJ | Real World Assets (RWA)
-Flavus Pereira Regis | brasil | salvador | cryptorastas | Other
-Gabriel Ramalho Braga  | Brazil | Niterói | Universidade Federal Fluminense - UFF | Other
-Gabriel Bezerra  | Brasil | Seropédica  | UFRRJ  | Other
-Gabriel Rodrigues da Silva | Brazil | Duque de Caxias | Rio de Janeiro Federal University - UFRJ | Other
-Gustavo Pesanha | Brazil | Rio de Janeiro | Federal University of Rio de Janeiro | DeSci
-Henrique de Medeiros Simões Rocha | Brazil | Seropédica  | Universidade Federal Rural do Rio de Janeiro  | Other
-Heron Lancellot | Brazil | Niteroi, Rj | Blockful | Other
-ian lee | mexico  | Mexico City | giveth | Other
-Igor Amaro | Brasil | Rio de Janeiro | Onkey | Other
-Isaac D'Césares | Brazil | Rio de Janeiro | Universidade Federal do Rio de Janeiro | DeSci
-Jairo Cunha | Brasil | Mato Grosso | IFMT | Other
-João Paulo Brito Gonçalves | Brasil | Cachoeiro de Itapemirim | Ifes | Healthcare
-Juliana Fasuolo | Brazil | Rio de Janeiro  | Pinax | Other
-Juliana Fernandes | Brazil | Rio de Janeiro | UFRJ | Other
-Julia Nascimento Terto | Brasil | Nova Iguaçu | Universidade Federal Rural do Rio de Janeiro  | Privacy-preserving dApp
-Adalberto junior | Brasil  | Nova Iguaçu  | Its Cripto | Other
-João Pedro de Oliveira Tavares Duarte | Brasil | Rio de Janeiro | Universidade Federal do Rio de Janeiro | Other
-Keith Fabre Macedo | Brasil | Rio de Janeiro | UFRJ | DeSci
-Klayvem Guimarães | Brasil | São Paulo | ETEC | Privacy-preserving dApp
-Laercio Simoes | Brasil | Vila Velha | HPC Brasil | Healthcare
-Mateus Andrade da Silva | Brazil | Rio de Janeiro | UFRJ | DeSci
-Matheus Felinto | Brazil | Rio de janeiro | UFRJ | Other
-Matheus Moura | Brazil | Rio de Janeiro | IBEU | Privacy-preserving dApp
-Matheus Rezende Bussinger | Brasil  | Rio de Janeiro  | UFRJ - Universidade Federal do Rio de Janeiro  | Other
-Max Felipe Silva Dos Santos Cravo | Brasil | Seropédica | Universidade Federal Rural do Rio de Janeiro | Other
-Maycon Cypriano Batestin | Brazil | Sao Paulo | IBM | Healthcare
-Camila Deodato | Brasil | Rio de Janeiro  | OnKey | Other
-Michel | Brasil | Niterói  | Universidade Federal Fluminense | DeFi
-Natasha Costa da Fonseca | Brazil | Rio de Janeiro | Federal University of Rio de Janeiro | DeSci
-Nicolas Duarte | Brasil | Rio de Janeiro | Universidade Federal Rural do Rio de Janeiro | DeSci
-Nilo | Brasil | Rio de Janeiro  | Its Cripto Educacional | Other
-Paulo Anaya | Brasil | São Paulo | Open Senses | DeFi
-Pedro Coelho do Nascimento | Brazil | São Bernardo do Campo | Fatec São Caetano do Sul | Other
-Pedro D Andrea Rosalba | Brazil | Rio de Janeiro | Impa tech | Other
-Rafael Figueiredo | Brazil | Rio de Janeiro  | Coppe/Ufrj | Other
-abundance rere | earth | all | none | Other
-Isabelle Santiago Cardoso Rizzo | Brazil | Seropédica | Universidade Federal Rural do Rio de Janeiro (UFRRJ) | Other
-Zaroni | Brazil | Rio de Janeiro | Z-Technologies | Real World Assets (RWA)
-Sherman | Brazil | Fortaleza | TJCE | Other
-alansilva | Brasil | Salvador | smart-elo | DeSci
-ZER8🧠 | Romania | Timisoara | UPT and Arbitrum DAO | Other
-theo Cuber Guimarães | Brasil  | Rio de Janeiro  | Universidade Federal do Rio de Janeiro | DeSci
-Thalles Rodrigues | Brazil | Rio de Janeiro | Universidade Federal Rural do Rio de Janeiro | Other
-Leonardo Vaz | Brazil | Rio de Janeiro | UFRJ | DeFi
-Vicente Hahn de Lima Gongora | Brasil | Londrina | Mok Beats  | Other
-Victor Prado Siqueira | Brazil | Rio de Janeiro | Federal University of Rio de Janeiro | DeSci
-Vitor Alves Pavani | Brazil | Rio de Janeiro | UFRJ | DeFi
-Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dApp
 
-## Groups
 
-### Group 1 (Artchain)
-* Adalberto Junior
-* Alan Silva dos Santos
-* Ana Claudia da Cunha
-* Pedro Coelho do Nascimento
-* Rodrigo Zaroni
 
-### Group 2 (Supply Link)
-* Max Felipe Silva Dos Santos Cravo
-* Isabelle Santiago Cardoso Rizzo
-* Gabriel Phelippe Bezerra
-* Thalles Rodrigues
 
-### Group 3
-* Leonardo de Oliveira Silva Vaz
-* Bruno Ricardo Corrêa de Carvalho
-* João Pedro de Oliveira Tavares Duarte
-* Vitor Alves Pavani
+Utilizando um "hash" para identificação de casas em favelas e como representá-lo em uma tabela. A ideia central é usar características da localização da casa para gerar um identificador único, mesmo na ausência de endereços formais.
+Esquema Conceitual:
 
-### Group 4 (Greenpill Brasil)
-* Athus Oliveira
-* Cauê Marcel
-* Deroila Marinho
-* João Estellita
-* Marcus Dutra
 
-### Group 5
-* Bernardo Dourado Bordeaux R. Machado
-* Theo Cuber Guimarães
-* Matheus Rezende Bussinger
 
-### Group 6 (ZKP-Privacy)
-* Adriano Busson
-* João Paulo
+Características da Localização: Selecione características que identificam unicamente uma casa dentro da favela. Exemplos:
 
-### Group 7
-* José Aldo Teixeira da Silva
-* Laercio Henrique Simões
-* Flavus Regis
+Beco/Vila: Nome ou número do beco ou vila.
+Ponto de Referência: Nome de um estabelecimento conhecido, igreja, praça, etc.
+Número da Casa (Relativo): Número da casa em relação ao início do beco ou a um ponto de referência. (Ex: 3ª casa à esquerda após o bar do Zé).
+Características Físicas: Cor da casa, material de construção (se distintivo). Usar com cautela, pois pode mudar.
+Coordenadas GPS (Opcional): Se disponível, oferece maior precisão.
 
-### Grupo 8
-* Cristiane Rodrigues da Silva 
-* Maycon Batestin 
+Codificação das Características: Converta as características em valores numéricos ou alfanuméricos. Exemplos:
+Beco/Vila: "Beco da Paz" -> BP
+Ponto de Referência: "Bar do Zé" -> BZ
+Número da Casa (Relativo): 3ª casa -> 03
+Características Físicas: Casa Azul -> AZ
 
-### Grupo 9 (OnKey)
-* Igor Amaro
-* Camila Deodato
-* André Ferreira
+Função Hash: Combine os valores codificados usando uma função hash. Uma função hash simples poderia ser a concatenação:
+BP-BZ-03-AZ -> BPB 03AZ
+Tabela: Organize as informações em uma tabela:
 
-### Grupo 10 (LearnChain)
-* Nicolas Duarte
-* Isaac D'Césares
-* Mateus Andrade da Silva
-* Davi Gomes Alves
 
-* ### Group 11
-* Paulo Anaya
-* André Carneiro
 
-## Hacker House sessions
 
-Recorded sessions are publicly available at IberoAm youtube channel:
 
-https://www.youtube.com/watch?v=ehaATPrdog8&list=PL5dr-3NL6H0dsgGjaN2j9OS0hEdJoplau
+
+
+
+Adaptando o Modelo de Hash Table para Casas
+
+  
+
+
+A imagem apresenta um modelo básico de tabela hash, onde:
+Chaves: São os elementos que queremos armazenar (nomes, no caso do exemplo).
+Função Hash: Uma função que transforma essas chaves em índices numéricos para o armazenamento.
+Armazenamento: Um array onde os valores associados às chaves são armazenados, indexados pelos resultados da função hash.
+
+Adaptando para Casas:
+Vamos adaptar esse modelo para armazenar informações sobre casas. Em vez de nomes, as chaves serão identificadores únicos para cada casa, como um número de cadastro. Os valores associados podem ser informações como endereço, número de quartos, tamanho, etc.
+
+
+
+Exemplo:
+Chaves:
+Número de cadastro da casa (um número único)
+Valores:
+Endereço completo
+Número de quartos
+Tamanho em metros quadrados
+Valor do imóvel
+Data de construção
+Função Hash:
+Poderia ser uma função que soma os dígitos do número de cadastro e aplica um módulo para obter um índice dentro do array de armazenamento.
+Tabela Hash Visual:
+Legenda:
+Número da Casa: A chave que será usada para encontrar as informações da casa.
+Informações da Casa: O valor associado à chave (endereço, número de quartos, etc.).
+Índice: A posição no array onde as informações da casa são armazenadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oferecemos uma ”Base de Apoio”
+
+
+
+A regularização fundiária, em termos gerais, é o processo que inclui medidas jurídicas, urbanísticas, ambientais e sociais, com a finalidade de integrar assentamentos irregulares ao contexto legal das cidades.
+Os assentamentos apresentam normalmente dois tipos de irregularidade fundiária:
+A. Irregularidade dominial, quando o possuidor ocupa uma terra pública ou privada, sem qualquer título que lhe dê garantia jurídica sobre essa posse;
+B. Urbanística e ambiental, quando o parcelamento não está de acordo com a legislação urbanística e ambiental e não foi devidamente licenciado.
+
+    • Gestão automatizada: Ferramentas intuitivas para gerenciar informações e serviços comunitários.
+
+    •  Suporte abrangente para as necessidades dos associados, desde registros até comunicação.
+
+    • Tecnologia de ponta: Utilizamos Blockchain para garantir segurança e transparência nos registros.
+Regularizar assentamentos urbanos
+
+Visa promover a regularização fundiária de comunidades que ocupam áreas urbanas de forma irregular, garantindo segurança jurídica e acesso a serviços públicos para essas famílias.
+
+Quando se trata de assentamentos de população de baixa renda, são necessárias também medidas sociais, de forma a buscar a inserção plena das pessoas à cidade. Lei nº 11.977/2009.
+
+
+
+Considerações:
+Colisões: A função hash deve minimizar colisões (duas hashes iguais para casas diferentes). Se houver colisões, adicione mais características distintivas.
+Manutenção: O sistema precisa ser atualizado se as características das casas mudarem.
+Comunidade: A participação da comunidade é essencial para definir as características e manter o sistema.
+Privacidade: Evite informações sensíveis no Hash ID.
+
+Benefícios da Plataforma OnKey
+1. Aumento da Eficiência Operacional
+Automação de Processos: A plataforma DOnKey integra fluxos de trabalho automatizados, acelerando a prestação de serviços e reduzindo o tempo de resposta.
+Sistemas de Pagamento Integrados: Através de ferramentas nativas, é possível realizar e gerenciar transações financeiras de forma rápida e segura, garantindo a otimização no fluxo de pagamentos.
+2. Redução de Custos e Burocracia
+Digitalização de Documentos: Eliminação de papéis e processos manuais, substituindo-os por processos digitais que reduzem a necessidade de recursos físicos e simplificam o gerenciamento de registros.
+Eficiência de Recursos: A automação permite uma melhor alocação de recursos humanos e financeiros, impactando diretamente na gestão eficiente e sustentável das operações comunitárias.
+3. Transparência e Engajamento
+Incentivo à Participação Ativa: Ferramentas colaborativas que promovem a participação direta de moradores, proprietários e associados em decisões comunitárias e eventos.
+Gestão Transparente: Acesso centralizado e seguro a informações financeiras e operacionais, promovendo uma comunicação clara e acessível a todos os membros.
+
+
+
+
+Funcionamento da Plataforma
+1. Gestão Automatizada de Dados
+Organização de Informações: Todos os dados são gerenciados de forma centralizada e automatizada, facilitando a atualização, consulta e distribuição de informações críticas.
+2. Registro Imobiliário com Blockchain
+Imutabilidade e Segurança: O registro de propriedades e ativos é realizado utilizando a tecnologia Blockchain, garantindo a integridade e a inviolabilidade dos dados, além de proporcionar um histórico transparente de todas as transações e modificações.
+Participe da Revolução OnKey
+Capacite sua comunidade com uma plataforma que oferece eficiência operacional, transparência total e segurança de ponta a ponta. Junte-se à OnKey e transforme a forma como as comunidades são gerenciadas.
+Contato
+Site: www.apponkey.xyz
+Email: contato@onkey.com
+
+Referências:
+*******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
